@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gotosecond" type="id" />
+    <item name="link" type="id" />
+    <item name="programming" type="id" />
+    <item name="comment" type="id" />
+    <item name="location" type="id" />
+    <item name="share" type="id" />
+</resources>
